@@ -1,4 +1,4 @@
-# Social_Robots_Assignment_Yoga_With_Pepper
+# Social_Robotics_Yoga_With_Pepper
 ![](https://github.com/subhransu10/Social_Robots_Assignment_Yoga_With_Pepper/blob/main/R.jpg)
 ## Aim of the Assignment
 The task of the assignment is to develop a behavior in a __Choreographe__ application by assembling pre-existing blocks and by creating some Python blocks. The end result is to have an interaction of the Pepper robot with the user.
